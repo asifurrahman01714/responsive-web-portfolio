@@ -1,9 +1,30 @@
 @media only screen and (max-width: 340px){
-
+    h1 {
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+  
+   
 }
 
-@media only screen and (max-width: 792px){
-
+@media only screen and (max-width: 767px){
+    .mt-md{
+        margin-top: 50px;
+    }
+    #junior-web {
+        margin-top: 10px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .dream-area {
+        background-size: 80px;
+    }
 }
 
 @media only screen and (max-width: 1910px){
